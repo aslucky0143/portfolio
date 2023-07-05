@@ -149,6 +149,7 @@ input:focus {
   margin: 18px;
   border-radius: 10px;
   border: none;
+  
 }
 .nav-course .nav-cou:hover {
   background-color: aliceblue;
@@ -179,8 +180,8 @@ input:focus {
 .join img{
   margin-right: 8px;
   background-color: aliceblue;
-  height: 50px;
-  width: 50px;
+  height: 36px;
+  width: 36px;
   filter: invert(1);
 }
 .join img:hover{
@@ -202,7 +203,7 @@ input:focus {
 
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
-.mySlides {display: none}
+
 img {vertical-align: middle;}
 
 /* Slideshow container */
